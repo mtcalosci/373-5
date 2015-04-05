@@ -38,5 +38,5 @@ int vsec[N];
               printf("Elemento %d del vettore ordinato : %d\n",i, vsec[i]);
              }
              
-return(EXIT_SUCCESS);
+return (EXIT_SUCCESS);
 }
